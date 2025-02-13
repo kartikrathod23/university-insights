@@ -25,6 +25,7 @@ This is a responsive and SEO-optimized landing page for students aspiring to stu
 ```bash
 git clone https://github.com/kartikrathod23/university-insights.git
 cd university-insights
+```
 
 
 2. Open the Project Locally
@@ -35,6 +36,7 @@ If you want to test locally with a server, you can use Python:
 ```bash
     # For Python 3
 python -m http.server 8000
+```
 
 Then, open http://localhost:8000 in your browser.
 
